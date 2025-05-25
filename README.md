@@ -1,0 +1,1 @@
+⚠️ SpyNote RAT Kullanımı Hakkında Uyarı ⚠️ SpyNote, Android cihazlar için geliştirilmiş bir Remote Access Trojan (RAT) aracıdır. Bu araç, cihazlara uzaktan erişim sağlamak amacıyla kullanılabilir. Ancak, SpyNote gibi araçların kullanımı çok ciddi yasal ve etik sorumluluklar doğurur.
